@@ -20,7 +20,7 @@ namespace SelectUser
             NewUser nu = new NewUser();
             nu.createSelectUser();
             Console.WriteLine("Welcome to GitHub");
-            Console.WriteLine("Welcome to GitHub")
+            Console.WriteLine("Welcome to GitHub");
         }
 
     }
